@@ -1,6 +1,7 @@
 // [B계정 conflict/B branch에서 추가]
 // [A계정 conflict/A branch에서 추가]
 public class Board {
+    [A계정이 add]
     private int    id;
     private String title;
     private String author;
